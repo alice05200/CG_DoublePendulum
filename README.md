@@ -5,3 +5,5 @@ References (Double Pendulum):
 ● https://www.myphysicslab.com/pendulum/double-pendulum-en.html  
 Source code reference (Texture mapping):  
 http://www.programming-techniques.com/2012/01/how-to-do-texture-mapping-in-opengl.html  
+No Shader  
+Using simple opengl
